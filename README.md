@@ -1,4 +1,4 @@
-# Daily Quotes / Affirmations
+# Daily Quotes / Affirmations Generator
 
 ## Environment Setup
 ```
