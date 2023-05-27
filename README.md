@@ -1,4 +1,4 @@
-# daily_quote
+Daily Quotes / Affirmations
 
 # Environment Setup
 '''
