@@ -1,13 +1,13 @@
-Daily Quotes / Affirmations
+# Daily Quotes / Affirmations
 
-# Environment Setup
+## Environment Setup
 ```
 npm install
 npm start
 ```
 More details can be found at https://reactnative.dev/docs/environment-setup
 
-# Dependencies to Install
+## Dependencies to Install
 
 ```
 npm install axios
