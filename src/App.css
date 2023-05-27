@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,300&family=Poppins:wght@300&display=swap');
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #5372f0;
+}
+
+.App {
+  text-align: center;
+}
+
+.header {
+  font-family: "Poppins";
+  color: white;
+  font-weight: 600;
+  margin-top: 50px;
+  font-size: 50px;
+  text-align: center;
+}
+
+.quoteSection {
+  background-color: white;
+  margin-top: 76px;
+  margin-left: auto;
+  margin-right: auto;
+  align-items: center;
+  font-family: 'Poppins';
+  box-sizing: content-box;
+  width: 700px;
+  height: auto;
+  align-items: center;
+  flex-direction: column;
+  padding-bottom: 25px;
+}
+
+.quoteSection .actualQuote {
+  padding: 40px;
+  font-size: 30px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.quoteSection .author {
+  font-size: 18px;
+  margin-left: 400px;
+  font-weight: bold;
+}
+
+.button {
+  margin-top: 60px;
+  align-items: center;
+  color: black;
+  background-color: white;
+  font-family: "Nanum Gothic";
+  display: inline-block;
+  border:0;
+  cursor: pointer;
+  line-height: 30px;
+  border-radius: 40px;
+  padding: 20px;
+  font-size: 30px;
+  font-weight: 400;
+  box-shadow: #ffa812 -2px -2px 0px 2px, #ff8c69 0px 0px 0px 4px, rgba(0, 0, 0, 0.05) 0px 0px 2px 7px;
+  transition: all 0.2s;
+  :hover{
+      box-shadow: rgb(246, 84, 174) -2px -2px 0px 2px, rgb(255, 198, 0) 0px 0px 0px 4px, rgba(0, 0, 0, 0.05) 0px 0px 2px 7px;
+      transform: scale(1.01);
+  }
+  
+}
