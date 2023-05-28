@@ -29,7 +29,7 @@ body {
   font-family: 'Poppins';
   box-sizing: content-box;
   width: 700px;
-  height: auto;
+  height: 300px;
   align-items: center;
   flex-direction: column;
   padding-bottom: 25px;
@@ -68,5 +68,13 @@ body {
       box-shadow: rgb(246, 84, 174) -2px -2px 0px 2px, rgb(255, 198, 0) 0px 0px 0px 4px, rgba(0, 0, 0, 0.05) 0px 0px 2px 7px;
       transform: scale(1.01);
   }
-  
+}
+
+.bottom {
+  margin-top: 160px;
+}
+
+.link {
+  color: black;
+  font-size: 25px;
 }
